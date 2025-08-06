@@ -1,12 +1,12 @@
 [![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Prohor Banik</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prohor722&label=Profile%20views&color=0e75b6&style=flat" alt="prohor722" /> </p>
 
-- 🌱 I’m currently learning **MEARN, LARAVEL**
+- 🌱 I’m currently working **MEARN, LARAVEL, NEXT JS**
 
 - 📫 How to reach me **prohollad.banik@gmail.com**
 
